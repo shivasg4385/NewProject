@@ -32,7 +32,7 @@ public class TestSQLDB {
         }
         finally
         {
-        	System.out.println("Able to get the data from SQL Server successfully!!!");
+        	System.out.println("Able to connect SQL Server successfully!!!");
         }
 	}
 
